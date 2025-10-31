@@ -1,0 +1,2 @@
+Window size - HDLC Connectivity (ICMP)
+window size depends on source and destination send the number of frames both supports
